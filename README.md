@@ -1,2 +1,2 @@
 # testing
-Doing some personal testing here
+Just doing some personal testing here
